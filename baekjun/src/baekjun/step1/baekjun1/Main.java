@@ -1,4 +1,4 @@
-package baekjun.step.baekjun1;
+package baekjun.step1.baekjun1;
 
 public class Main {
 
